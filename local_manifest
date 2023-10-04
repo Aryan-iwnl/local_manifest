@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Device Trees -->
+ <project path="device_xiaomi_rova" name="device/xiaomi/rova" remote="Aryan-iwnl" revision="lineage-18.1" />
+
+ <!-- Vendor Trees -->
+ <project path="vendor_xiaomi_rova" name="vendor/xiaomi/rova" remote="Aryan-iwnl" revision="master" />
+
+ <!-- Kernel Trees -->
+ <project path="kernel/xiaomi/rova" name="kernel_xiaomi_rova" remote="Aryan-iwnl" revision="lineage-18.1" />
+
+ <!-- Clang -->
+ <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" />
+
+</manifest>   
